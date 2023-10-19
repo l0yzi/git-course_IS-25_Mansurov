@@ -1,1 +1,2 @@
-alert('Test')
+alert('Test');
+console.log('Test 2')
